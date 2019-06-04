@@ -1,4 +1,4 @@
-/* JADE COMMAND FILE NAME P:\University\INFO213\Assignments\Milestone-2\MasterTerminalView.jcf */
+/* JADE COMMAND FILE NAME P:\INFO213\Milestone2\MasterTerminalView.jcf */
 jadeVersionNumber "18.0.01";
 schemaDefinition
 MasterTerminalView subschemaOf MasterTerminal completeDefinition, patchVersioningEnabled = false;
@@ -315,7 +315,7 @@ MasterTerminalViewDb
 	(
 		setModifiedTimeStamp "barry" "18.0.01" 2019:05:31:11:57:43.405;
 	databaseFileDefinitions
-		"masterterminalview" number=52;
+		"masterterminalview" number=54;
 		setModifiedTimeStamp "barry" "18.0.01" 2019:05:31:11:57:43.405;
 	defaultFileDefinition "masterterminalview";
 	classMapDefinitions

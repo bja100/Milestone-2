@@ -44,7 +44,7 @@
 	</Global>
 
 	<Form locale="5129" name="AreaListForm">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -379,7 +379,7 @@
 	</Form>
 
 	<Form locale="5129" name="LogDetails">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -1057,7 +1057,7 @@
 	</Form>
 
 	<Form locale="5129" name="AddLog">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -1113,7 +1113,7 @@
 	</Form>
 
 	<Form locale="5129" name="LogListForm">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -1448,7 +1448,7 @@
 	</Form>
 
 	<Form locale="5129" name="LotListForm">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -1783,7 +1783,7 @@
 	</Form>
 
 	<Form locale="5129" name="MainMenu">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
@@ -2039,7 +2039,7 @@
 	</Form>
 
 	<Form locale="5129" name="RowListForm">
-		<_painterModifiedTimeStamp>2019:06:03:16:25:41.298</_painterModifiedTimeStamp>
+		<_painterModifiedTimeStamp>2019:06:04:14:25:45.909</_painterModifiedTimeStamp>
 		<allowDocking>0</allowDocking>
 		<backBrush/>
 		<backBrushStyle>0</backBrushStyle>
